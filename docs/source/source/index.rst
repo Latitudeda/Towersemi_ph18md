@@ -1,4 +1,4 @@
-Tower Semiconductor PH18MD documentation
+Tower Semiconductor PH18MD Documentation
 ============================================
 
 .. toctree::

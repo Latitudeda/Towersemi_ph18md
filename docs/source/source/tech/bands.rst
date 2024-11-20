@@ -1,3 +1,3 @@
 bands.py
 =========
-Indicated the applicable bands used in towersemi_ph18md pdk.
+Indicated the applicable bands used in towersemi_ph18md PDK.
